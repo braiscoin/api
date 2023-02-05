@@ -4,7 +4,7 @@
 
 This is an API aimed at retrieving data from blockchain quickly and conveniently. We  support public APIs for:
 - Mainnet
-  - [https://api.braiscoin.org/v0/](https://api.braiscoin.org/v0/)
+  - [https://api.braiscoin.org/](https://api.braiscoin.org/)
 
 
 Visit `/docs` for Swagger documentation.
