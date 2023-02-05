@@ -1,4 +1,4 @@
-# Waves data service API
+# BraisCoin data service API
 
 **⚠️ This service is currently in /v0. Breaking changes are coming in /v1 (also possible, but not likely, within /v0 releases). Please use with caution.**
 
